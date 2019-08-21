@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "timeseriesid": "8470bd1d-247f-42a3-9756-7f77c3f3d7f0",
+        "val": 28,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 2,
+        "timeseriesid": "d0972543-e314-4878-96f8-aea6ddf6aba2",
+        "val": 40,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 3,
+        "timeseriesid": "478984aa-db9f-4911-b93a-903e1996e145",
+        "val": 84,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 4,
+        "timeseriesid": "d0972543-e314-4878-96f8-aea6ddf6aba2",
+        "val": 100,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 5,
+        "timeseriesid": "0d9f919f-9447-4761-8e8c-a766594549c0",
+        "val": 48,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 6,
+        "timeseriesid": "87ba0dbf-cc0b-4d3e-b4a9-86b302fabcab",
+        "val": 50,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 7,
+        "timeseriesid": "8470bd1d-247f-42a3-9756-7f77c3f3d7f0",
+        "val": 94,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 8,
+        "timeseriesid": "78c2167f-81e1-47d0-b9b8-fa8a64c3d563",
+        "val": 88,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 9,
+        "timeseriesid": "0d9f919f-9447-4761-8e8c-a766594549c0",
+        "val": 10,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    },
+    {
+        "id": 10,
+        "timeseriesid": "8470bd1d-247f-42a3-9756-7f77c3f3d7f0",
+        "val": 55,
+        "metric": "raw",
+        "timeOffset": "-5.00",
+        "timestamp": "2019-08-21 04:05:49.386782"
+    }
+]

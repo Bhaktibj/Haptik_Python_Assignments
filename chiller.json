@@ -1,0 +1,82 @@
+[
+    {
+        "id": "44dbf0c4-370a-4408-b438-bf6dc79ff8b4",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7026
+    },
+    {
+        "id": "87ba0dbf-cc0b-4d3e-b4a9-86b302fabcab",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7025
+    },
+    {
+        "id": "8470bd1d-247f-42a3-9756-7f77c3f3d7f0",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7028
+    },
+    {
+        "id": "0d9f919f-9447-4761-8e8c-a766594549c0",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7001
+    },
+    {
+        "id": "7bfbe0b2-8696-4050-aab5-250c8c1a815f",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7000
+    },
+    {
+        "id": "3ff31839-0741-4e0b-a4c3-9cf3c75421a9",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7055
+    },
+    {
+        "id": "d0972543-e314-4878-96f8-aea6ddf6aba2",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7009
+    },
+    {
+        "id": "478984aa-db9f-4911-b93a-903e1996e145",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7018
+    },
+    {
+        "id": "78c2167f-81e1-47d0-b9b8-fa8a64c3d563",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7064
+    },
+    {
+        "id": "873491b3-4377-4536-996c-dc051d07d078",
+        "owner": "Fairlife_Dairy",
+        "device": "Fairlife_Dairy.Fairlife_Dairy_7441.EAST_CH-3",
+        "chillerRef": "/Local Field Bus.JCI-8.YT2_YCAV_YCIV_IP",
+        "pointref": "YCAV YCIV Read Data",
+        "sccattributeid": 7068
+    }
+]
